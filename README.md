@@ -11,8 +11,11 @@ Main classes of the grid
 --------------------------------------------
 
 .container - 1170px
+
 .row
+
 .colw - simple column
+
 .colw-3 - column 3 of 12
 
 --------------------------------------------
